@@ -1,6 +1,6 @@
 {
   "name": "restaurant-client",
-  "homepage": "https://sebastiantegel.github.io/restaurant-client/",
+  "homepage": "https://sebastiantegel.github.io/restaurant-client/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
