@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sebastiantegel/restaurant-client/static/css/main.a1f2f4aa.css",
+    "main.js": "/sebastiantegel/restaurant-client/static/js/main.2e523a1b.js",
+    "static/js/787.76e580a2.chunk.js": "/sebastiantegel/restaurant-client/static/js/787.76e580a2.chunk.js",
+    "index.html": "/sebastiantegel/restaurant-client/index.html",
+    "main.a1f2f4aa.css.map": "/sebastiantegel/restaurant-client/static/css/main.a1f2f4aa.css.map",
+    "main.2e523a1b.js.map": "/sebastiantegel/restaurant-client/static/js/main.2e523a1b.js.map",
+    "787.76e580a2.chunk.js.map": "/sebastiantegel/restaurant-client/static/js/787.76e580a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f2f4aa.css",
+    "static/js/main.2e523a1b.js"
+  ]
+}
