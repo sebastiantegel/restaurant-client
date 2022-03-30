@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/319242b4-0c15-40aa-9bb7-855c6ce1fd72/resourceGroups/MI/providers/Microsoft.Web/sites/register-restaurant",
+    "appService.deploySubpath": "./build"
+}
